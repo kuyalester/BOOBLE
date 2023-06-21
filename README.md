@@ -27,7 +27,7 @@ If you don't have a JRE on your computer you need to download the Executable Gam
 
 ## Compiling/Execution of Source code in command prompt:
 
-  1. Navigate to the Group5_SourceCode, type "cmd" in the address bar and press ENTER to open the command prompt directed to the folder.
+  1. Navigate to the SourceCode folder, type "cmd" in the address bar and press ENTER to open the command prompt directed to the folder.
   
   2. Then, type the following command in the cmd to compile the source code. 
   
