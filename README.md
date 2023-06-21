@@ -37,7 +37,7 @@ If you don't have a JRE on your computer you need to download the Executable Gam
 
     java --module-path "javaFX\lib" --add-modules javafx.controls,javafx.fxml,javafx.media,poi.ooxml,poi  -cp classes Main
 
-<br><br>
+# Preview
 ![image](https://github.com/kuyalester/BOOBLE/assets/124505485/5b2902ce-2532-4107-a5fb-161e10896c42)
 <br><br>
 ![image](https://github.com/kuyalester/BOOBLE/assets/124505485/6d95a4fe-fe07-4ab0-9c55-6bfe8cff5e9b)
